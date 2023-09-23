@@ -15,5 +15,12 @@ Screenshot of hello world html page: <br>
 Screenshot of website:
 ![image](https://github.com/jhanavigera/ECE444-F2023-Lab1/assets/76650476/22355d7d-ee1b-4417-9e8d-dea9007de118) <br>
 
+**Activity four:** </br>
+![image](https://github.com/jhanavigera/ECE444-F2023-Lab1/assets/76650476/e5169fe2-dee0-4bf3-bc6b-d347b89ed8e9)
 
 
+Screenshots:
+![image](https://github.com/jhanavigera/ECE444-F2023-Lab1/assets/76650476/6ef31005-3b37-4b97-832c-5185e00ce4d6)
+![image](https://github.com/jhanavigera/ECE444-F2023-Lab1/assets/76650476/3b1269d2-fd97-4963-b9de-f7cbf4e84a42)
+![image](https://github.com/jhanavigera/ECE444-F2023-Lab1/assets/76650476/ed0458ac-9033-4e0f-b7bd-9cd830386e67)
+![image](https://github.com/jhanavigera/ECE444-F2023-Lab1/assets/76650476/72a1d7f8-d3e3-4319-940f-6ba8283fd638)
