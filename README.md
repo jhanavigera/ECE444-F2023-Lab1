@@ -16,8 +16,12 @@ Screenshot of website:
 ![image](https://github.com/jhanavigera/ECE444-F2023-Lab1/assets/76650476/22355d7d-ee1b-4417-9e8d-dea9007de118) <br>
 
 **Activity four:** </br>
-![image](https://github.com/jhanavigera/ECE444-F2023-Lab1/assets/76650476/e5169fe2-dee0-4bf3-bc6b-d347b89ed8e9)
+Commit messages:
+![image](https://github.com/jhanavigera/ECE444-F2023-Lab1/assets/76650476/e4d57dd8-4d66-4b80-a569-4cbb04e87489)
+![image](https://github.com/jhanavigera/ECE444-F2023-Lab1/assets/76650476/eb270aca-1114-4127-9518-3ddd08655ed3)
 
+Had to redo part 2 of activity 4 because I had set the form to fail if there is non-utoronto email rather than sending a reminder. Reworked commit:
+![image](https://github.com/jhanavigera/ECE444-F2023-Lab1/assets/76650476/9c0d243e-9fb3-4675-8f45-f51423be8cba)
 
 Screenshots:
 ![image](https://github.com/jhanavigera/ECE444-F2023-Lab1/assets/76650476/6ef31005-3b37-4b97-832c-5185e00ce4d6)
