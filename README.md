@@ -10,4 +10,10 @@ This repository is a clone of https://github.com/miguelgrinberg/flasky <br>
 Screenshot of hello world html page: <br>
 ![image](https://github.com/jhanavigera/ECE444-F2023-Lab1/assets/76650476/c8b81fca-ec3b-4429-bbdb-3816f3d5efe0) <br>
 
+**Activity three:** </br>
+![image](https://github.com/jhanavigera/ECE444-F2023-Lab1/assets/76650476/4db55f97-d5fd-4ecb-bf03-d79b8ee250ab)
+Screenshot of website:
+![image](https://github.com/jhanavigera/ECE444-F2023-Lab1/assets/76650476/22355d7d-ee1b-4417-9e8d-dea9007de118) <br>
+
+
 
