@@ -19,16 +19,8 @@ Screenshot of website:
 ![image](https://github.com/jhanavigera/ECE444-F2023-Lab1/assets/76650476/e5169fe2-dee0-4bf3-bc6b-d347b89ed8e9)
 
 
-form:
-![image](https://github.com/jhanavigera/ECE444-F2023-Lab1/assets/76650476/4f8ed47e-1552-48e4-b9dd-a4c80c53e081)
-![image](https://github.com/jhanavigera/ECE444-F2023-Lab1/assets/76650476/acfff812-b5c2-4c33-bcbc-31921e8b4696)
-
-Successful form entry:
-![image](https://github.com/jhanavigera/ECE444-F2023-Lab1/assets/76650476/502b9478-b737-455a-bfd2-ac307bed5004)
-
-Failed form entry:
-![image](https://github.com/jhanavigera/ECE444-F2023-Lab1/assets/76650476/ee6b197c-b33e-45fa-b014-76a1fe483de9)
-
-
-
-
+Screenshots:
+![image](https://github.com/jhanavigera/ECE444-F2023-Lab1/assets/76650476/6ef31005-3b37-4b97-832c-5185e00ce4d6)
+![image](https://github.com/jhanavigera/ECE444-F2023-Lab1/assets/76650476/3b1269d2-fd97-4963-b9de-f7cbf4e84a42)
+![image](https://github.com/jhanavigera/ECE444-F2023-Lab1/assets/76650476/ed0458ac-9033-4e0f-b7bd-9cd830386e67)
+![image](https://github.com/jhanavigera/ECE444-F2023-Lab1/assets/76650476/72a1d7f8-d3e3-4319-940f-6ba8283fd638)
